@@ -1,0 +1,42 @@
+Chapter 2
+Quiz answers:-
+
+1. Which of the following is a comment in Python?
+      Ans-> #This is a test
+
+2. What does the following code print out?
+
+123abc
+123+abc
+
+3. Which of the following variables is the "most mnemonic"?
+      Ans-> hours
+
+4. Which of the following is not a Python reserved word?
+      Ans-> iterate
+
+5. Assume the variable x has been initialized to an integer value (e.g., x = 3). What does the following statement do?
+      Ans-> Retrieve the current value for x, add two to it, and put the sum back into x
+
+
+6. Which of the following elements of a mathematical expression in Python is evaluated first?
+      Ans-> Parentheses ( )
+
+7. What is the value of the following expression
+      Ans-> 2
+
+8. What will be the value of x after the following statement executes:
+      Ans-> 5.0
+
+9. What will be the value of x when the following statement is executed:
+      Ans-> 98
+
+10. What does the Python input() function do?
+      Ans-> Pause the program and read data from the user
+
+
+(extra) In the following code, x = 42. What is “x”?
+      Ans->  A variable
+
+(extra) Which of the following is a bad Python variable name?
+      Ans-> spam.23
